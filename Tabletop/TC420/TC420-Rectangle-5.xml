@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture ScreenHeight="1094" ScreenWidth="1934" Subject="TC420" Name="Rectangle-5" >
+<Stroke index="1">
+<Point X="661" Y="122" P="0.5" T="1478350321674"/>
+<Point X="663" Y="119" P="0.5" T="1478350321674"/>
+</Stroke>
+<Stroke index="2">
+<Point X="654" Y="118" P="0.5" T="1478350321752"/>
+<Point X="656" Y="120" P="0.5" T="1478350321752"/>
+</Stroke>
+</Gesture>

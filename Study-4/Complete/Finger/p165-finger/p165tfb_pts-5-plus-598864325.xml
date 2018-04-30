@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="plus-5" Subject="165tfb" NumPts="38" ScreenWidth="1080" ScreenHeight="1872">
+	<Stroke index="1 duration="110.0">
+		<Point X="571" Y="424" T="974700" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="572" Y="431" T="974710" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="572" Y="431" T="974711" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="573" Y="441" T="974720" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="574" Y="449" T="974727" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="574" Y="453" T="974730" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="573" Y="461" T="974740" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="573" Y="464" T="974744" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="572" Y="469" T="974750" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="569" Y="480" T="974760" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="569" Y="481" T="974761" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="567" Y="488" T="974770" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="564" Y="499" T="974777" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="563" Y="503" T="974780" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="554" Y="526" T="974790" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="550" Y="536" T="974794" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="550" Y="536" T="974810" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+	</Stroke>
+	<Stroke index="2 duration="140.0">
+		<Point X="402" Y="554" T="974990" P="1.0" S="0.028600615" Orientation="0.0" Tilt="0.0" Twist="1.5707964" />
+		<Point X="402" Y="551" T="975000" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="406" Y="547" T="975010" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="406" Y="546" T="975011" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="421" Y="543" T="975020" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="438" Y="535" T="975028" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="443" Y="532" T="975030" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="472" Y="520" T="975040" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="485" Y="513" T="975044" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="502" Y="503" T="975050" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="539" Y="492" T="975060" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="543" Y="491" T="975061" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="572" Y="481" T="975070" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="601" Y="474" T="975077" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="611" Y="472" T="975080" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="646" Y="470" T="975090" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="662" Y="470" T="975094" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="683" Y="470" T="975100" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="715" Y="473" T="975110" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="718" Y="474" T="975111" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+		<Point X="718" Y="474" T="975130" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" Twist="1.5707964" />
+	</Stroke>
+</Gesture>

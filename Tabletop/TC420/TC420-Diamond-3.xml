@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture ScreenHeight="1094" ScreenWidth="1934" Subject="TC420" Name="Diamond-3" >
+<Stroke index="1">
+<Point X="703" Y="132" P="0.5" T="1478350099439"/>
+<Point X="667" Y="194" P="0.5" T="1478350099439"/>
+</Stroke>
+</Gesture>

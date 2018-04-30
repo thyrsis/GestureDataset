@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture ScreenHeight="1094" ScreenWidth="1934" Subject="TC815" Name="E-1" >
+<Stroke index="1">
+<Point X="792" Y="107" P="0.5" T="1478360079990"/>
+<Point X="794" Y="94" P="0.5" T="1478360079990"/>
+<Point X="814" Y="123" P="0.5" T="1478360079990"/>
+</Stroke>
+</Gesture>

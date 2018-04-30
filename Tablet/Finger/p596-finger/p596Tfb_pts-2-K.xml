@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="K-2" Subject="596Tfb" NumPts="10" ScreenWidth="1080" ScreenHeight="1872">
+	<Stroke index="1 duration="70.0">
+		<Point X="496" Y="251" T="6822672" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="493" Y="255" T="6822692" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="493" Y="255" T="6822694" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="493" Y="256" T="6822702" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="495" Y="260" T="6822711" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="495" Y="261" T="6822712" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="499" Y="270" T="6822722" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="499" Y="270" T="6822727" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="499" Y="270" T="6822732" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+		<Point X="499" Y="270" T="6822742" P="1.0" S="0.028600615" Orientation="1.5707964" Tilt="0.0" />
+	</Stroke>
+</Gesture>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture ScreenHeight="1094" ScreenWidth="1934" Subject="TC885" Name="Line-6" >
+<Stroke index="1">
+<Point X="470" Y="295" P="0.5" T="1477155191468"/>
+<Point X="518" Y="295" P="0.5" T="1477155191468"/>
+<Point X="585" Y="293" P="0.5" T="1477155191468"/>
+<Point X="656" Y="287" P="0.5" T="1477155191468"/>
+<Point X="734" Y="290" P="0.5" T="1477155191468"/>
+<Point X="809" Y="297" P="0.5" T="1477155191468"/>
+<Point X="883" Y="310" P="0.5" T="1477155191468"/>
+<Point X="949" Y="323" P="0.5" T="1477155191468"/>
+<Point X="1003" Y="341" P="0.5" T="1477155191468"/>
+</Stroke>
+</Gesture>
