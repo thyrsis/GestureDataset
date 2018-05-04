@@ -1,5 +1,8 @@
 KidGesture Dataset
 
+In submission under review for the ICMI '2018 conference. Please do not cite, distribute, or fork until the final citable version is available.
+
+
 Overview:
 This dataset consists of children's touchscreen gestures, each stored as an XML file. The gestures were collected in five different studies:
 Study 1 (Smartphone)
@@ -8,15 +11,13 @@ Study 3 (Smartphone)
 Study 4 (Tablet)
 Study 5 (Tabletop)
 
+
 Data Format:
 Each gesture is stored as a single XML file. 
-In each session, the participant was asked to draw each of 20 gesture types a total of 6 times. The gesture set [Anthony et al., IDC '13] included numbers (2,4,5,7,8),
-letters (A,E,K,Q,X), shapes (diamond,circle,line,rectangle,triangle) and symbols (arch,arrowhead,checkmark,heart,plus).
 
+In each session, the participant was asked to draw each of 20 gesture types a total of 6 times. The gesture set [Anthony et al., ITS '2012] included numbers (2,4,5,7,8), letters (A,E,K,Q,X), shapes (diamond,circle,line,rectangle,triangle) and symbols (arch,arrowhead,checkmark,heart,plus).
 
-The following is an example of contents of an XML file. The first line is a standard XML heading. The second line opens a Gesture tag and specifies the name,
-subject (user ID), number of points, screen width, and screen height. Within the Gesture is a series of Strokes, which are indexed starting at 1, as well as
-the duration of the stroke. Each Point within the stroke has an X and Y coordinate as well as the timestamp at which the point was created (in milliseconds).
+The following is an example of contents of an XML file. The first line is a standard XML heading. The second line opens a Gesture tag and specifies the name, subject (user ID), number of points, screen width, and screen height. Within the Gesture is a series of Strokes, which are indexed starting at 1, as well as the duration of the stroke. Each Point within the stroke has an X and Y coordinate as well as the timestamp at which the point was created (in milliseconds).
 
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Gesture Name="line-1" Subject="555" NumPts="40" ScreenWidth="1080" ScreenHeight="1872">
@@ -38,15 +39,17 @@ the duration of the stroke. Each Point within the stroke has an X and Y coordina
 	</Stroke>
 </Gesture>
 
+
 Directory structure:
-The higest level contains five directories, one for each of the 5 studies, labeled Study-1, Study-2, Study-3, Study-4, and Study-5. Within each of these directories
-are two directories: Complete (participants for which all data is present) and Incomplete (participants for which some data is missing). Within each of these
-directories there are further directories depending on the study. In Study-1, there is a folder of Visual-Feedback and No-Visual-Feedback. In Study-3, there is a folder
-for Abstract-Application or Complex-Application. In Study-4, there is a folder for Pen input and Finger input.
+The highest level contains five directories, one for each of the 5 studies, labeled Study-1, Study-2, Study-3, Study-4, and Study-5. Within each of these directories are two directories: Complete (participants for which all data is present) and Incomplete (participants for which some data is missing). Within each of these directories, there are further directories depending on the study. In Study-1, there is a folder for gestures collected in the Visual-Feedback and No-Visual-Feedback conditions during that study. In Study-3, there is a folder for the Abstract-Application or Complex-Application conditions. In Study-4, there is a folder for the Pen input and Finger input conditions.
+
+In all studies, the conditions are within-subjects, so every participant provided gesture samples in both/all conditions.
 
 
 Demographics:
 Demographic information, including the gender, age, and grade level (for children) is included in demographics.csv.
 
+
+Citation:
 If you use our dataset, please cite as following:
-[CITATION]
+[CITATION TO BE MADE AVAILABLE ONCE PAPER IS ACCEPTED FOR PUBLICATION]

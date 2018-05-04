@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Gesture ScreenHeight="1094" ScreenWidth="1934" Subject="TC899" Name="X-3" >
-<Stroke index="1">
-<Point X="818" Y="59" P="0.5" T="1479548495995"/>
-<Point X="820" Y="61" P="0.5" T="1479548495995"/>
-<Point X="815" Y="56" P="0.5" T="1479548495995"/>
-</Stroke>
-</Gesture>
