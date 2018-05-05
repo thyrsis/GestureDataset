@@ -15,12 +15,12 @@ Study 5 (Tabletop)
 Data Format:
 Each gesture is stored as a single XML file. 
 
-In each session, the participant was asked to draw each of 20 gesture types a total of 6 times. The gesture set [Anthony et al., ITS '2012] included numbers (2,4,5,7,8), letters (A,E,K,Q,X), shapes (diamond,circle,line,rectangle,triangle) and symbols (arch,arrowhead,checkmark,heart,plus).
+In each session, the participant was asked to draw each of 20 gesture types a total of 6 times. The gesture set included numbers (2,4,5,7,8), letters (A,E,K,Q,X), shapes (diamond,circle,line,rectangle,triangle) and symbols (arch,arrowhead,checkmark,heart,plus).
 
 The following is an example of contents of an XML file. The first line is a standard XML heading. The second line opens a Gesture tag and specifies the name, subject (user ID), number of points, screen width, and screen height. Within the Gesture is a series of Strokes, which are indexed starting at 1, as well as the duration of the stroke. Each Point within the stroke has an X and Y coordinate as well as the timestamp at which the point was created (in milliseconds).
 
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Gesture Name="line-1" Subject="555" NumPts="40" ScreenWidth="1080" ScreenHeight="1872">
+<Gesture Name="X-1" Subject="555" NumPts="40" ScreenWidth="1080" ScreenHeight="1872">
 	<Stroke index="1" duration="650.0">
 		<Point X="181" Y="503" T="258244" />
 		<Point X="185" Y="503" T="258284" />
